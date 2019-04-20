@@ -1,3 +1,4 @@
+# returns user's name with doctor in front of it
 def make_doctor(name):
     return "Doctor " + name
 
