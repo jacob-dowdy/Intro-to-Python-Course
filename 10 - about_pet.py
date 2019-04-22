@@ -9,6 +9,6 @@ elif about_pet == "cat":
 elif about_pet == "fish":
     print("Swimmies!")
 else:
-    print("New pet!")
+    print("Cool pet!")
     
 print("Thanks for sharing!")
