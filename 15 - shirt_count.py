@@ -18,3 +18,12 @@ while True:
         large_shirts +=1
     else:
         print("Please enter a valid shirt type")
+        
+# test output
+'''Please enter a size (S,M,L): S
+Please enter a size (S,M,L): M
+Please enter a size (S,M,L): S
+Please enter a size (S,M,L): L
+Please enter a size (S,M,L): exit
+You've got 2 smalls, 1 mediums, and 1 larges. '''      
+       
